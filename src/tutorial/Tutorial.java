@@ -43,6 +43,6 @@ public class Tutorial {
 		
 		public static final String PROXY = "tutorial.proxy";
 		
-		public static final String TEXTURE = "tutorial";
+		public static final String ASSETS = "tutorial";
 	}
 }
